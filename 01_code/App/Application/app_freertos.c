@@ -7,7 +7,7 @@ void ledTaskFunction(void const * argument)
   for(;;)
   {
 	  HAL_GPIO_TogglePin(LED_GPIO_Port, LED_PIN);
-    osDelay(1000);
+	  osDelay(1000);
   }
   /* USER CODE END ledTaskFunction */
 }

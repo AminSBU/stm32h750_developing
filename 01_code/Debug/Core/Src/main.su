@@ -7,7 +7,7 @@
 ../Core/Src/main.c:439:13:MX_USART1_UART_Init	8	static
 ../Core/Src/main.c:487:13:MX_USART3_UART_Init	8	static
 ../Core/Src/main.c:535:13:MX_GPIO_Init	56	static
-../Core/Src/main.c:582:6:StartDefaultTask	16	static
+../Core/Src/main.c:582:13:StartDefaultTask	16	static
 ../Core/Src/main.c:600:13:ledTaskFunction	16	static
 ../Core/Src/main.c:613:6:MPU_Config	24	static
 ../Core/Src/main.c:648:6:HAL_TIM_PeriodElapsedCallback	16	static
